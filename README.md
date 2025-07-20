@@ -1,4 +1,4 @@
-# CMR-ART: Pitures and ASCII arts of the Classic of Mountains and Rivers
+# CMR-ART: Pictures and ASCII arts of the Classic of Mountains and Rivers
 
 《山海经》插画及其通过转换后的ASCII arts文件。
 

@@ -1,7 +1,7 @@
 [project]
 name = "cmr-art"
 version = "0.1.0"
-description = "Pitures and ASCII arts of the Classic of Mountains and Rivers"
+description = "Pictures and ASCII arts of the Classic of Mountains and Rivers"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
